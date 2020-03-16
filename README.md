@@ -8,7 +8,7 @@
     - Construction
   - Coms
     - Radios
-    - Key Infastructure
+    - Key Infrastructure
   - Tech
     - Rapid Manufacturing
     - Wifi Mesh Networks
