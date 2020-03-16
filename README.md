@@ -1,5 +1,15 @@
-# django-heroku-basic-template
-Basic Django setup for deploying to heroku
+# joplinemergency.com
 
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://github.com/benmcnelly/joplinemergency)
+# Covid-19 Rapid Response Team
+  - Ground Team
+    - Vehicles / Transportation
+    - Construction
+  - Coms
+    - Radios
+    - Key Infastructure
+  - Tech
+    - Rapid Manufacturing
+    - Wifi Mesh Networks
+  - Web
+    - Alternate Coms
+    - Hyper Local Infomation
